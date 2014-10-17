@@ -5,5 +5,5 @@
   <Description>Hotel search on hotel.de, one of the leading online hotel reservations services in the world.</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://www.hotel.de/favicon.ico</Image>
-  <Url type="text/html" method="GET" template="https://www.hotel.de/Search?hs_destination={searchTerms}" />
+  <Url type="text/html" method="GET" template="https://www.hotel.de/Search?cpn=3024&amp;hs_destination={searchTerms}" />
 </OpenSearchDescription>
